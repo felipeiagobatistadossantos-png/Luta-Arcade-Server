@@ -1,0 +1,12 @@
+{
+  "name": "luta-arcade-relay",
+  "version": "1.0.0",
+  "description": "Servidor Relay WebSocket para jogo de luta na Godot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
